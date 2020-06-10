@@ -2,7 +2,7 @@
 
 Simple Blog Application
  ## Built With 
-  Veiw/ejs > front end
+  ejs > front end
   NodeJS > backend 
   Express > Server
   MongoDB > DB
